@@ -1,8 +1,8 @@
-1.ºöÂÔÌØÊâÎÄ¼ş
-ºöÂÔÄ³Ğ©ÎÄ¼şÊ±£¬ĞèÒª±àĞ´.gitignore;
-.gitignoreÎÄ¼ş±¾ÉíÒª·Åµ½°æ±¾¿âÀï£¬²¢ÇÒ¿ÉÒÔ¶Ô.gitignore×ö°æ±¾¹ÜÀí£¡
+1.å¿½ç•¥ç‰¹æ®Šæ–‡ä»¶
+å¿½ç•¥æŸäº›æ–‡ä»¶æ—¶ï¼Œéœ€è¦ç¼–å†™.gitignore;
+.gitignoreæ–‡ä»¶æœ¬èº«è¦æ”¾åˆ°ç‰ˆæœ¬åº“é‡Œï¼Œå¹¶ä¸”å¯ä»¥å¯¹.gitignoreåšç‰ˆæœ¬ç®¡ç†ï¼
 
-2.ÅäÖÃ±ğÃû
+2.é…ç½®åˆ«å
 e.g.
 git config --global alias.co checkout 
 git config --global alias.ci commit
